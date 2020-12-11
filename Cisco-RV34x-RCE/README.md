@@ -80,7 +80,6 @@ Step into sub_11500:
 ...
 ```
 It's easy to inject a system command.    
-And there should be other cmdi bug(s) in the cgi.   
 
 To trigger it:
 ```
