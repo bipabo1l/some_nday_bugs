@@ -1,6 +1,5 @@
 ## Some Bugs
 Publishing some bugs(already pathched) found by me  and exploits written by me(tagged).
-Giao Giao Giao!
 |  Bugs   | Links  |
 |  ----  | ----  |
 | Sonicwall SMA RCE(writing exp)     |   https://github.com/w0lfzhang/some_iot_bugs/tree/master/Sonicwall-CVE-2019-7482 |
