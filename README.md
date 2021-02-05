@@ -3,7 +3,7 @@ Publishing some bugs(already pathched) found by me  and exploits written by me(t
 Giao Giao Giao!
 |  Bugs   | Links  |
 |  ----  | ----  |
-| Sonicwall SMA RCE(writing exp)     |   https://github.com/w0lfzhang/sonicwall-cve-2019-7482 |
+| Sonicwall SMA RCE(writing exp)     |   https://github.com/w0lfzhang/some_iot_bugs/tree/master/Sonicwall-CVE-2019-7482 |
 | Cisco RV34x RCE  | https://github.com/w0lfzhang/some_iot_bugs/tree/master/Cisco-RV34x-RCE |
 | H3C ERg2 RCE  | https://github.com/w0lfzhang/some_iot_bugs/tree/master/H3C-ERg2-RCE |
 |  Goahead Memory Leaking   |  https://github.com/embedthis/goahead-gpl/issues/2#issuecomment-633738262 |
