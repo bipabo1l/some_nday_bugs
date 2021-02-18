@@ -3,7 +3,6 @@ I reported the bug several months ago and H3C didn't reply me... SO...
 
 ## BUG
 The bug is a post-cmdi, but need a trick to exploit it.   
-<img src="cmdi.png">
 The length of string to injection is limited and no curl cmd to use, so we can't use normal exploit way such as wget xxx and chmod xxx and then xxx.   
 We can print the cmd to a file and then to execute it.
 ```
